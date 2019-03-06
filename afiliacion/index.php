@@ -28,7 +28,7 @@
             </div>
 
 
-            <div id="nav-mobile" class="textocabecera center col  ">Formulario de Afiliación</div>
+            <div id="nav-mobile" class="textocabecera center col  ">FORMULARIO DE AFILIACIÓN</div>
 
 
         </div>
@@ -42,18 +42,18 @@
                     <div class="input-field col s6">
                         <i class="material-icons prefix ">accessibility</i>
                         <input id="nombre" name="nombre" type="text" class="validate" required>
-                        <label for="nombre">Nombre</label>
+                        <label for="nombre">NOMBRE</label>
                     </div>
                     <div class="input-field col s6">
                         <input id="apellido" name="apellido" type="text" class="validate" required>
-                        <label for="apellido">Apellidos</label>
+                        <label for="apellido">APELLIDOS</label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
                         <i class="material-icons prefix">contact_mail</i>
                         <input id="email" type="email" name="email" class="validate" required>
-                        <label for="email">Correo Electrónico</label>
+                        <label for="email">CORREO ELECTRÓNICO</label>
                     </div>
 
                 </div>
@@ -61,7 +61,7 @@
                     <div class="input-field col s12  ">
                         <i class="material-icons prefix">add_location</i>
                         <input id="direccion" type="text" name="direccion" class="validate" required>
-                        <label for="direccion">Dirección</label>
+                        <label for="direccion">DIRECCIÓN</label>
                     </div>
 
                 </div>
@@ -69,46 +69,46 @@
                     <div class="input-field col s4">
 
                         <input id="cp" type="text" name="cp" pattern="[0-9]{5}" class="validate" required>
-                        <label for="cp">Código Postal</label>
+                        <label for="cp">CÓDIGO POSTAL</label>
                     </div>
                     <div class="input-field col s4">
                         <input id="ciudad" type="text" name="ciudad" class="validate" required>
-                        <label for="ciudad">Ciudad</label>
+                        <label for="ciudad">CIUDAD</label>
                     </div>
                     <div class="input-field col s4">
                         <input id="provincia" type="text" name="provincia" class="validate" required>
-                        <label for="provincia">Provincia</label>
+                        <label for="provincia">PROVINCIA</label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="input-field col s4">
                         <i class="material-icons prefix">contact_phone</i>
                         <input id="telefono_fijo" name="telefono_fijo" pattern="[0-9]{9}" type="text" class="validate">
-                        <label for="telefono_fijo">Teléfono fijo</label>
+                        <label for="telefono_fijo">TELÉFONO FIJO</label>
                     </div>
                     <div class="input-field col s4">
                         <input id="telefono_movil" name="telefono_movil" type="text" pattern="[0-9]{9}" class="validate" required>
-                        <label for="telefono_movil">Teléfono móvil</label>
+                        <label for="telefono_movil">TELÉFONO MOVIL</label>
                     </div>
                     <div class="input-field col s4">
                         <input id="profesion" name="profesion" type="text" class="validate" required>
-                        <label for="profesion">Profesión</label>
+                        <label for="profesion">PROFESIÓN</label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="input-field col s6">
                         <i class="material-icons prefix">accessibility</i>
                         <input id="fecha_nacimiento" name="fecha_nacimiento" type="date" class="validate" required>
-                        <label for="fecha_nacimiento">Fecha de Nacimiento</label>
+                        <label for="fecha_nacimiento">FECHA DE NACIMIENTO</label>
                     </div>
                     <div class="input-field col s6">
                         <input id="dni" name="dni" type="text" class="validate" required>
-                        <label for="dni">D.N.I.</label>
+                        <label for="dni">D.N.I.(INCLUIDA LA LETRA)</label>
                     </div>
                 </div>
                 <br>
                 
-                <h5  class="teal lighten-2 textocabecera">DOMICILIACION BANCARIA DE CUOTAS</h5>
+                <h5  class="teal lighten-2 textocabecera">DOMICILIACIÓN BANCARIA DE CUOTAS</h5>
                 <h5  class="z-depth-5 teal lighten-2 textocabecera"> CUOTA MENSUAL: 5€</h5>
                 
 
@@ -119,11 +119,11 @@
                     <div class="">
                         <div class="input-field col s6">
                             <input id="banco" name="banco" type="text" class="validate" required>
-                            <label for="banco">Banco o Caja de Ahorros:</label>
+                            <label for="banco">NOMBRE BANCO O CAJA:</label>
                         </div>
                         <div class="input-field col s6">
                             <input id="sucursal" name="sucursal" type="text" class="validate" required>
-                            <label for="sucursal">Sucursal:</label>
+                            <label for="sucursal">NUMERO SUCURSAL:</label>
                         </div>
 
                     </div>
@@ -132,11 +132,11 @@
                     <div class="">
                         <div class="input-field col s6">
                             <input id="domicilioBanco" name="domicilioBanco" type="text" class="validate" required>
-                            <label for="domicilioBanco">Domicilio Banco:</label>
+                            <label for="domicilioBanco">DOMICILIO SUCURSAL:</label>
                         </div>
                         <div class="input-field col s6">
                             <input id="municipioBanco" name="municipioBanco" type="text" class="validate" required>
-                            <label for="municipioBanco">Municipio:</label>
+                            <label for="municipioBanco">MUNICIPIO:</label>
                         </div>
 
                     </div>
@@ -145,11 +145,11 @@
                     <div class="">
                         <div class="input-field col s6">
                             <input id="provinciaBanco" name="provinciaBanco" type="text" class="validate" required>
-                            <label for="provinciaBanco">Provincia Banco:</label>
+                            <label for="provinciaBanco">PROVINCIA:</label>
                         </div>
                         <div class="input-field col s6">
                             <input id="cpBanco" name="cpBanco" pattern="[0-9]{5}" type="text" class="validate" required>
-                            <label for="cpBanco">Código Postal Banco:</label>
+                            <label for="cpBanco">CÓDIGO POSTAL:</label>
                         </div>
 
                     </div>
@@ -158,7 +158,7 @@
                     <div class="">
                         <div class="input-field col s12">
                             <input id="ibam" name="ibam" type="text" class="validate" required>
-                            <label for="ibam">IBAN/Número de Cuenta:</label>
+                            <label for="ibam">IBAN/NÚMERO DE CUENTA:</label>
                         </div>
 
 
@@ -178,7 +178,7 @@
                         <div class="textocabe">FRONTAL D.N.I.</div>
                         <input class=" input-image validate" required type="file" id="frontal" name="frontal" data-target="frontal" accept="image/*" onchange="mostrar(frontal)" />
 
-                        <img class="responsive-img" alt="Haga una fotografia con su cámara de su D.N.I." id="imgfrontal" style="max-height:250px; max-width:300px;" />
+                        <img class="responsive-img" alt="Haga una fotografía con su cámara de su D.N.I." id="imgfrontal" style="max-height:250px; max-width:300px;" />
                         <br>
                         <br>
                         <br>
@@ -196,7 +196,7 @@
 
 
 
-                        <img id="imgtrasera" class="responsive-img" alt="Haga una fotografia con su cámara de la parte posterior del D.N.I." style="max-height:250px; max-width:300px;" />
+                        <img id="imgtrasera" class="responsive-img" alt="Haga una fotografía con su cámara de la parte posterior del D.N.I." style="max-height:250px; max-width:300px;" />
                         <br>
                         <br><br>
                     </div>
@@ -207,7 +207,7 @@
                         </div>
                         <input class=" input-image validate" required type="file" id="firma" name="firma" accept="image/*" onchange="mostrar(firma)" />
 
-                        <img id="imgfirma" class="responsive-img" alt="Haga una fotografia con su cámara de su firma sobre un papel blanco" style="max-height:250px; max-width:300px;" />
+                        <img id="imgfirma" class="responsive-img" alt="Haga una fotografía con su cámara de su firma sobre un papel blanco" style="max-height:250px; max-width:300px;" />
                         <br>
                         <br>
                         <br>

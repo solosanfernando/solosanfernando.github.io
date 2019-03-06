@@ -48,13 +48,13 @@
         </li> -->
 
         <li>
-            <a class="btn btn-large red darken-1 tooltipped unete section center" data-position="bottom" data-tooltip="Rellena este formulario si quieres colaborar con nosotros" href="./conocimiento/index.php">
+            <a class="btn btn-large tooltipped unete section center" data-position="bottom" data-tooltip="Rellena este formulario si quieres colaborar con nosotros" href="./conocimiento/index.php">
                 Banco de Talentos
             </a>
 
         </li>
         <li>
-            <a class="btn btn-large yellow darken-1 black-text tooltipped section unete" data-position="bottom" data-tooltip="Pincha aqui si quieres unirte a nosotros" href="./afiliacion/index.php">
+            <a class="btn btn-large tooltipped section unete" data-position="bottom" data-tooltip="Pincha aqui si quieres unirte a nosotros" href="./afiliacion/index.php">
                 Unete
             </a>
 

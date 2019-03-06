@@ -35,8 +35,8 @@
 
         </div>
         <div class="section teal lighten-2">
-            <h5 class="section">Este formulario esta destinado a que nos conozcamos mejor , para que sepamos en que area de
-                conocimiento podeis colaborar con nosotros y vuestra disponibilidad.</h5>
+            <h5 class="section">Este formulario está destinado a que nos conozcamos mejor, para que sepamos en que área de
+                conocimiento podéis colaborar con nosotros y vuestra disponibilidad.</h5>
 
         </div>
 
@@ -53,18 +53,18 @@
                     <div class="input-field col s6">
                         <i class="material-icons prefix ">accessibility</i>
                         <input id="nombre" name="nombre" type="text" class="validate" required>
-                        <label for="nombre">Nombre</label>
+                        <label for="nombre">NOMBRE</label>
                     </div>
                     <div class="input-field col s6 ">
                         <input id="apellido" name="apellido" type="text" class="validate" required>
-                        <label for="apellido">Apellidos</label>
+                        <label for="apellido">APELLIDOS</label>
                     </div>
                 </div>
                 <div class="row">
                     <div class="input-field col s12">
                         <i class="material-icons prefix">contact_mail</i>
                         <input id="email" type="email" name="email" class="validate" required>
-                        <label for="email">Correo Electrónico</label>
+                        <label for="email">CORREO ELECTRÓNICO</label>
                     </div>
 
                 </div>
@@ -74,7 +74,7 @@
                     <div class="input-field col s12 ">
                         <i class="material-icons prefix">contacts</i>
                         <textarea id="textarea1" name="textarea1" class="materialize-textarea "></textarea>
-                        <label for="textarea1">Formacion Reglada y Titulaciones Oficiales</label>
+                        <label for="textarea1">FORMACIÓN REGLADA Y TITULACIONES OFICIALES</label>
                     </div>
 
 
@@ -83,7 +83,7 @@
                     <div class="input-field col s12">
                         <i class="material-icons prefix">add_box</i>
                         <textarea id="textarea2" name="textarea2" class="materialize-textarea"></textarea>
-                        <label for="textarea2">Cursos y Otra Formacion</label>
+                        <label for="textarea2">CURSOS Y OTRA FORMACIÓN</label>
                     </div>
 
 
@@ -92,7 +92,7 @@
                     <div class="input-field col s12">
                         <i class="material-icons prefix">business_center</i>
                         <textarea id="textarea3" name="textarea3" class="materialize-textarea"></textarea>
-                        <label for="textarea3">Experiencia Labroral</label>
+                        <label for="textarea3">EXPERIENCIA LABORAL</label>
                     </div>
 
 
@@ -101,7 +101,7 @@
                     <div class="input-field col s12">
                         <i class="material-icons prefix">folder_special</i>
                         <textarea id="textarea4" name="textarea4" class="materialize-textarea"></textarea>
-                        <label for="textarea4">Relacion con Asociaciones, Fundaciones y Grupos Sociales o Profesionales</label>
+                        <label for="textarea4">RELACION CON ASOCIACIONES, FUNDACIONES Y GRUPOS SOCIALES O PROFESIONALES</label>
                     </div>
 
 
@@ -111,7 +111,7 @@
                     <div class="input-field col s12">
                         <i class="material-icons prefix">extension</i>
                         <textarea id="textarea4" name="textarea4" class="materialize-textarea"></textarea>
-                        <label for="textarea4">¿En que area te gustaria colaborar con SOLO SAN FERNANDO</label>
+                        <label for="textarea4">¿EN QUE ÁREA TE GUSTARIA  COLABORAR CON SOLO SAN FERNANDO</label>
                     </div>
 
 
@@ -119,30 +119,30 @@
                 </div>
                 <div class="section row">
                     <div class="input-field col s12">
-                    <h5 class="z-depth-5 teal lighten-2 textocabecera section">¿Te gustaria ir en las listas electorales de SOLO SAN FERNANDO? ¿En que puesto?</h5>
+                    <h5 class="z-depth-5 teal lighten-2 textocabecera section">¿TE GUSTARÍA IR EN LAS LISTAS ELECTORALES DE SOLO SAN FERNANDO? ¿EN QUE PUESTO?</h5>
                         <p></p>
                         <p>
                             <label>
                                 <input name="group1" type="radio"  />
-                                <span>Me gustaria ser Alcaldable</span>
+                                <span>ME GUSTARÍA SER ALCALDABLE</span>
                             </label>
                         </p>
                         <p>
                             <label>
                                 <input name="group1" type="radio" />
-                                <span>Me gustaria estar entre el numero 2 y 5</span>
+                                <span>ME GUSTARÍA ESTAR ENTRE EL NÚMERO 2 y 5</span>
                             </label>
                         </p>
                         <p>
                             <label>
                                 <input name="group1" type="radio" checked />
-                                <span>Me es indiferente la posicion</span>
+                                <span>ME ES INDIFERENTE LA POSICIÓN</span>
                             </label>
                         </p>
                         <p>
                             <label>
                                 <input name="group1" type="radio" />
-                                <span>No me gustaria ir en ninguna lista electoral</span>
+                                <span>NO ME GUSTARÍA IR EN NINGUNA LISTA ELECTORAL</span>
                             </label>
                         </p>
 
@@ -160,14 +160,14 @@
                         <ul>
                             <li class="botones">
 
-                                <button id="botonterminar" class="btn waves-effect waves-light teal lighten-2 disabled " type="submit" name="action">Terminado
+                                <button id="botonterminar" class="btn waves-effect waves-light teal lighten-2 disabled " type="submit" name="action">ENVIAR
                                     <i class="material-icons right">assignment_turned_in</i>
                                 </button>
 
                             </li>
                             <li class="botones">
                                 <button class="btn  waves-effect waves-light teal lighten-2 " onclick="borrar()" type="reset">
-                                    Borrar todo
+                                    BORRAR TODO
                                     <i class="material-icons">delete</i>
                                 </button>
 
