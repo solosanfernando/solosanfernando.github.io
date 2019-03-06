@@ -27,12 +27,9 @@ h3 {
 }
 
 .cabeza {
-    position: fixed;
+    
     width: 100%;
-    top: 0;
 
-    margin-bottom: 10%;
-    left: 0;
 }
 
 .cuerpo {
@@ -53,7 +50,7 @@ h3 {
 
 #overbox3 {
     position: fixed;
-    bottom: 0px;
+    top: 0px;
     left: 0px;
     width: 100%;
     z-index: 999999;
@@ -72,11 +69,11 @@ h3 {
 
 #infobox3 p {
     line-height: 58px;
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
 }
 
 #infobox3 p a {
     margin-right: 5px;
     text-decoration: underline;
-    ]
+}

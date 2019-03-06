@@ -68,13 +68,13 @@
 
 
 
-    <div class="row cabeza teal darken-1 white-text">
+    <div class="row cabeza teal-text text-darken-1 ">
         <img class="col m1 s5 responsive-img logo" src="./img/logo.png" alt="">
         <span class="col m10 s5 center cabecera "> SOLO <br> SAN FERNANDO</span>
 
 
     </div>
-    <div class="section cuerpo">
+    <div class="section">
 
 
 
