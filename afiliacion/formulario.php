@@ -359,7 +359,7 @@ ob_start();
 
 
     //Recipiente
-    $to = 'cyberwichi@gmail.com';
+    $to = 'solosanfernando@gmail.com';
 
     //remitente del correo
     $from = 'prueba@barbarrero.es';
