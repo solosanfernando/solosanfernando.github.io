@@ -42,7 +42,7 @@
 
 
         <div id="imprimir" class="section">
-            <form action="formulario.php" class="col s12" method="POST" enctype="multipart/form-data">
+            <form action="http://www.barbarrero.es/solo3/formulario.php" class="col s12" method="POST" enctype="multipart/form-data">
                 <br>
 
 
@@ -119,8 +119,8 @@
                 </div>
                 <div class="section row">
                     <div class="input-field col s12">
-                    <h5 class="z-depth-5 teal lighten-2 textocabecera section">¿TE GUSTARÍA IR EN LAS LISTAS ELECTORALES DE SOLO SAN FERNANDO? ¿EN QUE PUESTO?</h5>
-                        <p></p>
+                    <h5 class="z-depth-5 teal lighten-2 textocabecera section">¿TE GUSTARÍA IR EN LAS LISTAS ELECTORALES DE SOLO SAN FERNANDO? ¿EN QUE PUESTO? </h5>
+                        <p>Las dos primeras opciones son solo para afiliados</p>
                         <p>
                             <label>
                                 <input name="group1" type="radio"  />

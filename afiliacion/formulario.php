@@ -359,7 +359,7 @@ ob_start();
 
 
     //Recipiente
-    $to = 'solosanfernando@gmail.com';
+    $to = 'cyberwichi@gmail.com';
 
     //remitente del correo
     $from = 'prueba@barbarrero.es';
@@ -419,14 +419,11 @@ ob_start();
     //Estado de envío de correo electrónico
     if ($mail) {
 
-        echo "<div style=\"text-align:center\">        
-                <img class=\"responsive-img \" src=\"img/logo.png\">
-            <h1>Solicitud enviada, en breve nos pondremos en contacto con usted.</h1> <h1>Muchas gracias y bienvenido/a a Solo San Fernando.</h1>
-        </div> <embed style=\"text-align:center\" src=\"./img/pdf/$ficheropdf\"  type=\"application/pdf\" width=\"800\" height=\"600\"></embed>";
+        Header( "Location: http://www.solosanfernando.es/enviado.php");
     } else {
+        Header( "Location: http://www.solosanfernando.es/noenviado.php");
 
-        echo "
-           <img src=\"img/logo.png\"> El envío de correo falló intentelo de nuevo pasado unos minutos. Gracias";
+       
     }
 
     ?>

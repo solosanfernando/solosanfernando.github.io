@@ -33,7 +33,7 @@
 
         </div>
         <div id="imprimir" class="section">
-            <form action="formulario.php" class="col s12" method="POST" enctype="multipart/form-data">
+            <form action="http://www.barbarrero.es/solo/formulario.php" class="col s12" method="POST" enctype="multipart/form-data">
                 <br>
 
                 <h5 class="z-depth-5 teal lighten-2 textocabecera">DATOS PERSONALES</h5>
