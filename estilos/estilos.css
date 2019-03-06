@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+}
+h3{
+    text-align: center;
+}
+.cabecera{
+    font-size: 5vw;
+}
+
+   
+.secciones{
+    color: #28807A;
+    font-size: 20px;
+    
+    
+    
+   
+}
+.unete{
+    padding: 100px;
+}
+.cabeza{
+    position: fixed;
+    width: 100%;
+    top:0;
+
+    margin-bottom:10%;
+    left: 0;
+}
+.cuerpo{
+    margin-top: 190px;
+}
+.logo{
+    
+    min-width: 200px;
+    margin: auto;
+   
+}
+.cabecera{
+    margin-top: 5px;
+    
+}
+
+
+
+   
