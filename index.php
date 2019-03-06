@@ -65,10 +65,10 @@
         <br>
         <br>
         <li>
-            
-        <img class="responsive-img fondo" src="img/campana.jpg"></a>
-              
-            
+
+            <img class="responsive-img " src="img/campana.jpg">
+
+
         </li>
 
 
