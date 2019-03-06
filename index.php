@@ -21,33 +21,40 @@
     </div>
 
 
-    <ul id="slide-out" class="sidenav teal darken-1 white-text">
+    <ul id="slide-out" class="sidenav ">
         <li>
             <div class="user-view">
                 <div class="background">
                     <img src="img/fondo.jpg">
                 </div>
-                
-                <a class="btn btn-large teal darken-1 tooltipped unete" data-position="bottom" data-tooltip="Pincha aqui si quieres unirte a nosotros" href="http://www.barbarrero.es/solo">
-                    Unete
-                </a>
+
+
                 <br>
-                <a href="#user"><img class="" src="img/logo.png"></a>                
+                <a href="#user"><img class="" src="img/logo.png"></a>
                 <br>
             </div>
         </li>
 
 
-        <li><a class="waves-effect teal darken-1 white-text">¿Que pensamos sobre....?</a></li>
+        <!-- <li><a class="waves-effect teal darken-1 white-text disabled">¿Que pensamos sobre....?</a></li>
         <li><a class="waves-effect teal darken-1 white-text">¿Quienes somos?</a></li>
         <li><a class="waves-effect teal darken-1 white-text" href="#!">¿Hacia donde vamos?</a></li>
         <li><a class="waves-effect teal darken-1 white-text" href="#!">Notas de prensa</a></li>
         <li><a class="waves-effect teal darken-1 white-text" href="#!">Noticias/Actualidad</a></li>
-        <li><a class="waves-effect teal darken-1 white-text" href="#!">Vamos a charlar a la plazoleta</a></li>
+        <li><a class="waves-effect teal darken-1 white-text" href="#!">Vamos a charlar a la plazoleta</a></li> -->
 
-        <li>
+        <!-- <li>
             <div class="divider"></div>
-        </li>
+        </li> -->
+        <a class="btn btn-large red darken-1 tooltipped unete section center" data-position="bottom" data-tooltip="Rellena este formulario si quieres colaborar con nosotros" href="./conocimiento/index.php">
+            Banco de Talentos
+        </a>
+        <br>
+        <a class="btn btn-large yellow darken-1 tooltipped section unete" data-position="bottom" data-tooltip="Pincha aqui si quieres unirte a nosotros" href="./afiliacion/index.php">
+            Unete
+        </a>
+
+
     </ul>
 
 
@@ -55,7 +62,7 @@
     <div class="row cabeza teal darken-1 white-text">
         <img class="col m1 s5 responsive-img logo" src="./img/logo.png" alt="">
         <span class="col m10 s5 center cabecera "> SOLO <br> SAN FERNANDO</span>
-       
+
 
     </div>
     <div class="section cuerpo">
