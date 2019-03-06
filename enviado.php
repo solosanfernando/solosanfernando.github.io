@@ -25,7 +25,7 @@
         <h3 class="center">FORMULARIO CREADO Y ENVIADO CON EXITO</h3>
         <br>
 
-        <a class="btn btn-large tooltipped unete section center" data-position="bottom" data-tooltip="PULSE PARA VOLVER AL INICIO" href="www.solosanfernando.es">
+        <a class="btn btn-large tooltipped unete section center" data-position="bottom" data-tooltip="PULSE PARA VOLVER AL INICIO" href="http://www.solosanfernando.es">
             PULSE PARA VOLVER
         </a>
 
