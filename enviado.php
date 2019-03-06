@@ -25,7 +25,7 @@
         <h3 class="center">FORMULARIO CREADO Y ENVIADO CON EXITO</h3>
         <br>
         <div class="section">
-        <button onclick="<?php  Header( "Location: http://www.solosanfernando.es/git status");?>"></button>
+        <button onclick="<?php  Header( "Location: http://www.solosanfernando.es/");?>">pulsa para volver</button>
         </div>
 
     </div>
