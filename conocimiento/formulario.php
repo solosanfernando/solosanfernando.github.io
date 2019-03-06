@@ -149,10 +149,10 @@ ob_start();
 
             <tr>
                 <td>
-                    D.N.I. :
+                    Posicion en las listas :
                 </td>
                 <td class="td">
-                    <?= $_POST['dni'] ?>
+                    <?= $_POST['group1']?>
                 </td>
             </tr>
         </table>

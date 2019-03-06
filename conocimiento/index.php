@@ -123,25 +123,25 @@
                         <p>Las dos primeras opciones son solo para afiliados</p>
                         <p>
                             <label>
-                                <input name="group1" type="radio"  />
+                                <input name="group1" type="radio" value="alcaldable" />
                                 <span>ME GUSTARÍA SER ALCALDABLE</span>
                             </label>
                         </p>
                         <p>
                             <label>
-                                <input name="group1" type="radio" />
+                                <input name="group1" type="radio" value="entre el 2 y 5"/>
                                 <span>ME GUSTARÍA ESTAR ENTRE EL NÚMERO 2 y 5</span>
                             </label>
                         </p>
                         <p>
                             <label>
-                                <input name="group1" type="radio" checked />
+                                <input name="group1" type="radio" value="indiferente" checked />
                                 <span>ME ES INDIFERENTE LA POSICIÓN</span>
                             </label>
                         </p>
                         <p>
                             <label>
-                                <input name="group1" type="radio" />
+                                <input name="group1" type="radio" value="no listas"/>
                                 <span>NO ME GUSTARÍA IR EN NINGUNA LISTA ELECTORAL</span>
                             </label>
                         </p>

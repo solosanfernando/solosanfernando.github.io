@@ -24,12 +24,18 @@
     <div class="container section">
         <h3 class="center">FORMULARIO CREADO Y ENVIADO CON EXITO</h3>
         <br>
-        <div class="section">
-        <button onclick="<?php  Header( "Location: http://www.solosanfernando.es/");?>">pulsa para volver</button>
-        </div>
+
+        <a class="btn btn-large tooltipped unete section center" data-position="bottom" data-tooltip="PULSE PARA VOLVER AL INICIO" href="#" onclick="redireccionar()">
+            PULSE PARA VOLVER
+        </a>
+
+
 
     </div>
 
 
-
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="script/cookies.js" type="text/javascript"></script>
+    <script src="script/script.js"></script>
 </body> 
