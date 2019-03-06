@@ -1,49 +1,82 @@
-body{
+body {
     margin: 0;
     padding: 10px;
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
 }
-h3{
+
+h3 {
     text-align: center;
 }
-.cabecera{
+
+.cabecera {
     font-size: 5vw;
 }
 
-   
-.secciones{
+
+.secciones {
     color: #28807A;
     font-size: 20px;
-   
+
 }
-.unete{
+
+.unete {
     margin: 10px;
     padding: 100px;
     width: 100%;
 }
-.cabeza{
+
+.cabeza {
     position: fixed;
     width: 100%;
-    top:0;
+    top: 0;
 
-    margin-bottom:10%;
+    margin-bottom: 10%;
     left: 0;
 }
-.cuerpo{
+
+.cuerpo {
     margin-top: 190px;
 }
-.logo{
-    
+
+.logo {
+
     min-width: 200px;
     margin: auto;
-   
+
 }
-.cabecera{
+
+.cabecera {
     margin-top: 5px;
-    
+
 }
 
+#overbox3 {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 999999;
+    display: block;
+}
 
+#infobox3 {
+    margin: auto;
+    position: relative;
+    top: 0px;
+    height: 58px;
+    width: 100%;
+    text-align: center;
+    background-color: #eeeeee;
+}
 
-   
+#infobox3 p {
+    line-height: 58px;
+    font-size: 12px;
+    text-align: center;
+}
+
+#infobox3 p a {
+    margin-right: 5px;
+    text-decoration: underline;
+    ]

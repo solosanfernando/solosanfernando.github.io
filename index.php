@@ -48,20 +48,20 @@
         </li> -->
 
         <li>
-        <a class="btn btn-large red darken-1 tooltipped unete section center" data-position="bottom" data-tooltip="Rellena este formulario si quieres colaborar con nosotros" href="./conocimiento/index.php">
-            Banco de Talentos
-        </a>
+            <a class="btn btn-large red darken-1 tooltipped unete section center" data-position="bottom" data-tooltip="Rellena este formulario si quieres colaborar con nosotros" href="./conocimiento/index.php">
+                Banco de Talentos
+            </a>
 
         </li>
         <li>
-        <a class="btn btn-large yellow darken-1 black-text tooltipped section unete" data-position="bottom" data-tooltip="Pincha aqui si quieres unirte a nosotros" href="./afiliacion/index.php">
-            Unete
-        </a>
+            <a class="btn btn-large yellow darken-1 black-text tooltipped section unete" data-position="bottom" data-tooltip="Pincha aqui si quieres unirte a nosotros" href="./afiliacion/index.php">
+                Unete
+            </a>
 
         </li>
-        
+
         <br>
-       
+
 
 
     </ul>
@@ -155,13 +155,16 @@
     <br>
     <br>
     <br>
-
-
-
-
-
-
+    <div id="overbox3">
+        <div id="infobox3">
+            <p>Esta web utiliza cookies para obtener datos estadísticos de la navegación de sus usuarios. Si continúas navegando consideramos que aceptas su uso.
+                <a href="politica-privacidad.php">Más información</a>
+                <a onclick="aceptar_cookies();" style="cursor:pointer;">X Cerrar</a></p>
+        </div>
+    </div>
+    <script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="script/cookies.js" type="text/javascript"></script>
     <script src="script/script.js"></script>
 
 </body> 
