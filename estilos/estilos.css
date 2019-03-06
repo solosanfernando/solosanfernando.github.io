@@ -32,6 +32,10 @@ h3 {
     margin: auto;
 
 }
+.fondo{
+position: absolute;
+bottom: 10%;
+}
 
 .cabecera {
     margin-top: 5px;
