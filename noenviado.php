@@ -24,9 +24,7 @@
     <div class="container section">
         <h3 class="center">SE HA PRODUCIDO UN ERROR POR FAVOR INTENTELO DE NUEVO EN UNOS MINUTOS</h3>
         <br>
-        <a class="btn btn-large tooltipped unete section center" data-position="bottom" data-tooltip="PULSE PARA VOLVER AL INICIO" href="javascript:redireccionar()
-        
-        " onclick="redireccionar()">
+        <a class="btn btn-large tooltipped unete section center" data-position="bottom" data-tooltip="PULSE PARA VOLVER AL INICIO" href="www.solosanfernando.es" >
             PULSE PARA VOLVER
         </a>
     </div>
