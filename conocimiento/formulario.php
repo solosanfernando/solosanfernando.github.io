@@ -146,6 +146,15 @@ ob_start();
                     <?= $_POST['textarea4'] ?>
                 </td>
             </tr>
+            <tr>
+                <td>
+                    Areas de interes:
+                </td>
+                <td class="td">
+                    <?= $_POST['textarea5'] ?>
+                </td>
+            </tr>
+
 
             <tr>
                 <td>

@@ -110,8 +110,8 @@
                 <div class="row">
                     <div class="input-field col s12">
                         <i class="material-icons prefix">extension</i>
-                        <textarea id="textarea4" name="textarea4" class="materialize-textarea"></textarea>
-                        <label for="textarea4">¿EN QUE ÁREA TE GUSTARIA  COLABORAR CON SOLO SAN FERNANDO</label>
+                        <textarea id="textarea5" name="textarea5" class="materialize-textarea"></textarea>
+                        <label for="textarea5">¿EN QUE ÁREA TE GUSTARIA  COLABORAR CON SOLO SAN FERNANDO</label>
                     </div>
 
 
